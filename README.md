@@ -1,3 +1,19 @@
+
+`npm i`
+
+`npm start`
+
+download the server repo from (here)[https://github.com/devNimi/reactnd-contacts-server]
+
+`npm i`
+
+`node server.js`
+
+
+
+
+
+## create-react-app documentation
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
